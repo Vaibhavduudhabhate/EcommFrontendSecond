@@ -32,7 +32,7 @@ const Register = () => {
         })
         localStorage.setItem("auth",JSON.stringify(res.data))
         console.log(location.state?.from)
-        navigate(location.state?.from || "/")
+        navigate(location.state?.from || "/EcommFrontendSecond")
       }else{
         toast.error(res.data.message)
       }

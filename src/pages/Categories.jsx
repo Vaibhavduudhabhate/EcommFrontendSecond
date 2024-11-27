@@ -13,7 +13,7 @@ const Categories = () => {
             {
                 category && category.map((cat)=>(
                 <div className="col-md-6">
-                        <Link to="/" className='btn btn-primary m-2'>
+                        <Link to="/EcommFrontendSecond" className='btn btn-primary m-2'>
                         {cat.name}
                         </Link>
                 </div>
