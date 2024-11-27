@@ -36,7 +36,7 @@ const Header = () => {
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <SearchInput />
               <li className="nav-item">
-                <NavLink to="/EcommerceAppClient" className="nav-link">Home</NavLink>
+                <NavLink to="/EcommFrontendSecond" className="nav-link">Home</NavLink>
               </li>
               {/* <li className="nav-item">
                 <NavLink to="/category" className="nav-link">Category</NavLink>

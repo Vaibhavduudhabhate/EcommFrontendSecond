@@ -28,7 +28,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/EcommerceAppClient" element={<HomePage/>} />
+      <Route path="/EcommFrontendSecond" element={<HomePage/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/product/:slug" element={<ProductDetails/>} />
       <Route path="/categories" element={<Categories/>} />
