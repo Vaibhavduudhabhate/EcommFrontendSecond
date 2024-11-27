@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcommFrontendSecond/static/css/main.df4bac42.css",
+    "main.js": "/EcommFrontendSecond/static/js/main.bf6be6fa.js",
+    "index.html": "/EcommFrontendSecond/index.html",
+    "main.df4bac42.css.map": "/EcommFrontendSecond/static/css/main.df4bac42.css.map",
+    "main.bf6be6fa.js.map": "/EcommFrontendSecond/static/js/main.bf6be6fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4bac42.css",
+    "static/js/main.bf6be6fa.js"
+  ]
+}
